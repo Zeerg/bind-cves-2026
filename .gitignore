@@ -1,0 +1,13 @@
+*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+!/bind-9.20.30-vulnerability-research.md
+!/CVE-2026-19630/
+!/CVE-2026-19630/**
+!/CVE-2026-94300/
+!/CVE-2026-94300/**
+!/CVE-2026-96888/
+!/CVE-2026-96888/**
+!/CVE-2026-97313/
+!/CVE-2026-97313/**
